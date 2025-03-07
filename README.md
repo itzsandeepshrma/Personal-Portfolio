@@ -40,7 +40,7 @@ To view or edit the portfolio locally:
 
 **GitHub:** [itzsandeepshrma](https://github.com/itzsandeepshrma)
 
-**Instagram:** [itzsandeepshrma](https://instagram.com/itz_sandeep_shrma)
+**Instagram:** [itz_sandeep_shrma](https://instagram.com/itz_sandeep_shrma)
 
 **© 𝚂αɴɖεερ 𝚂ʜαяɱα All Right Reserved**
 
