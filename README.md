@@ -8,7 +8,8 @@ This portfolio website is designed to highlight my projects, skills, and experie
 
 ## 📸 Preview
 
-![Screenshot_2025-02-14-15-01-37-92](https://github.com/user-attachments/assets/494fd9e7-4da2-4e19-b147-bdf3d67efe61)
+![IMG_20250403_131348](https://github.com/user-attachments/assets/444c1aad-1fbd-4d2e-b207-1208fef2c913)
+
 
 
 ## ✨ Features
