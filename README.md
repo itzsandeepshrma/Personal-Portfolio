@@ -11,7 +11,6 @@ This portfolio website is designed to highlight my projects, skills, and experie
 ![IMG_20250403_131348](https://github.com/user-attachments/assets/444c1aad-1fbd-4d2e-b207-1208fef2c913)
 
 
-
 ## ✨ Features
 
 - **Responsive Design**: Ensures optimal viewing experience across various devices.
