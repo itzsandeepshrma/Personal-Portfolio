@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio
+# Personal Portfolio
 
 Welcome to my personal portfolio website repository. This project showcases my work, skills, and provides a platform for visitors to get in touch with me.
 
@@ -31,8 +31,9 @@ To view or edit the portfolio locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/itzsandeepshrma/Portfolio-1.git
-   cd Portfolio-1
+   git clone https://github.com/itzsandeepshrma/Personal-Portfolio.git
+   
+   cd Personal-Portfolio
 
 ## 📬 Contact
 
@@ -42,7 +43,7 @@ To view or edit the portfolio locally:
 
 **Instagram:** [itz_sandeep_shrma](https://instagram.com/itz_sandeep_shrma)
 
-**© 𝚂αɴɖεερ 𝚂ʜαяɱα All Right Reserved**
+**© sᴧɴᴅᴇᴇᴘ sʜᴧʀᴍᴧ All Right Reserved**
 
 Let me know if you need any changes!
 
@@ -52,7 +53,7 @@ Let me know if you need any changes!
   
 **MIT License**
 
-**Copyright (c) 2025 𝚂αɴɖεερ 𝚂ʜαяɱα**
+**Copyright (c) 2025 sᴧɴᴅᴇᴇᴘ sʜᴧʀᴍᴧ**
 
 **Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
