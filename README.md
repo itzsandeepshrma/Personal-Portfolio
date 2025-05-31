@@ -2,30 +2,25 @@
 
 Welcome to my personal portfolio website repository. This project showcases my work, skills, and provides a platform for visitors to get in touch with me.
 
-## 📖 About
+## About
 
 This portfolio website is designed to highlight my projects, skills, and experience in the field of web development. It serves as a central hub for potential employers, collaborators, and clients to learn more about me and my work.
 
-## 📸 Preview
-
-![IMG_20250403_131348](https://github.com/user-attachments/assets/444c1aad-1fbd-4d2e-b207-1208fef2c913)
-
-
-## ✨ Features
+## Features
 
 - **Responsive Design**: Ensures optimal viewing experience across various devices.
 - **Interactive Elements**: Engaging animations and transitions for a dynamic user experience.
 - **Project Showcase**: Detailed presentation of selected projects with images and descriptions.
 - **Contact Form**: Allows visitors to send messages directly through the website.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **HTML5**: For structuring the content.
 - **CSS3**: For styling and layout.
 - **JavaScript**: For interactive functionalities.
 - **jQuery**: To simplify DOM manipulation and enhance interactivity.
 
-## 🚀 Getting Started
+## Getting Started
 
 To view or edit the portfolio locally:
 
@@ -35,7 +30,7 @@ To view or edit the portfolio locally:
    
    cd Personal-Portfolio
 
-## 📬 Contact
+## Contact
 
 **For any inquiries, feel free to connect via:**
 
@@ -49,7 +44,7 @@ Let me know if you need any changes!
 
 **This will look clean and professional on your GitHub repository. Let me know if you need any modifications!**
 
-## 📝 Licence 
+## Licence 
   
 **MIT License**
 
